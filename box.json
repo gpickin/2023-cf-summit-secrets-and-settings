@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "commandbox-stackChecker":"^2.1.0"
+    },
+    "installPaths":{
+        "commandbox-stackChecker":"modules/commandbox-stackChecker/"
+    }
+}

@@ -1,0 +1,3 @@
+23-10-02 09:44:02:838  INFO main cfsetup.CommandLogger:29 - cfsetup>show datasource
+23-10-02 09:44:10:069  INFO main cfsetup.CommandLogger:29 - cfsetup>select app1
+23-10-02 09:44:15:306  INFO main cfsetup.CommandLogger:29 - cfsetup>show datasource
